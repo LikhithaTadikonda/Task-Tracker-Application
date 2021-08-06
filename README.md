@@ -1,4 +1,5 @@
-# Using Create React App
+## Using Create React App, Node Js Package (npm Package)
+### Extensions: ES7 React/Redux/GraphQL/React-Native Snippets
 Run below commands in the terminal:
 ### `npm start`
 -Runs the app in the development mode.\
